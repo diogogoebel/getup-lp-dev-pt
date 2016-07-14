@@ -168,7 +168,7 @@
                             height: 35px;
                         -->
                         <a href="https://getupcloud.com/en/" class="navbar-brand smooth-scroll" style="outline: none; cursor: default;"><img src="images/uploads/logo-getup.png" alt="logo" style="width: 100px; height: 34px; border-radius: 0px; border: 1px none rgb(67, 159, 224); outline: none; cursor: default;"></a>
-                        </br><?php echo getenv('HOSTNAME') ?>
+                        <center><?php echo getenv('HOSTNAME') ?></center>
                         <!-- Image Logo For Background Transparent -->
                         <!--
                             <a href="#" class="navbar-brand logo-black smooth-scroll"><img src="images/logo-black.png" alt="logo" /></a>
